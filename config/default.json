@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mahadi-devo-contact-keeper:D71DXZKreCxfWT5M@cluster0.3x2oz.mongodb.net/test?authSource=admin&replicaSet=atlas-htxtcg-shard-0&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=true",
+    "jwtSecret": "mahadi-devo-Contact-keeper-2020/12/26"
+}
