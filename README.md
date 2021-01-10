@@ -25,9 +25,13 @@
 
 ## Screenshots
 
-<div align="left"  width="50%">
-<img align="left" src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png"  width="">
-<img align="right" src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png" width="">
+<div align="left" width="50%">
+<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png"  width="">
+<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png" width="">
 </div>
 
+<div align="right" width="50%">
+<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png"  width="">
+<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png" width="">
+</div>
 
