@@ -1,6 +1,7 @@
 # Sales & Stock Management System
 
 > It is a web application using Laravel for SLIIT ITP module.
+> <b>(Laravel | MySql | Blade | Bootstrap)
 
 ## Functionalities
 
