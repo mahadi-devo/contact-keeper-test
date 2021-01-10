@@ -5,12 +5,12 @@
 # Screenshots
 
 <div style="display: grid; grid-template-columns: 1fr 1fr">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture5_orna8i.png">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293282/Picture4_dlgyrt.png">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture3_qom1wi.png">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture6_jeupzl.png">
+    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png"></div>
+    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png"></div>
+    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture5_orna8i.png"></div>
+    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293282/Picture4_dlgyrt.png"></div>
+    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture3_qom1wi.png"></div>
+    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture6_jeupzl.png"></div>
 </div>
 
 # Functionalities
