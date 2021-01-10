@@ -2,18 +2,18 @@
 
 > It is a web application using Laravel for SLIIT ITP module.
 
-# Screenshots
+## Screenshots
 
 <div style="display: grid; grid-template-columns: 1fr 1fr">
-    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png"></div>
-    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png"></div>
-    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture5_orna8i.png"></div>
-    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293282/Picture4_dlgyrt.png"></div>
-    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture3_qom1wi.png"></div>
-    <div<img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture6_jeupzl.png"></div>
+    <div><img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png"></div>
+    <div><img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png"></div>
+    <div><img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture5_orna8i.png"></div>
+    <div><img src="https://res.cloudinary.com/mahadi/image/upload/v1610293282/Picture4_dlgyrt.png"></div>
+    <div><img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture3_qom1wi.png"></div>
+    <div><img src="https://res.cloudinary.com/mahadi/image/upload/v1610293283/Picture6_jeupzl.png"></div>
 </div>
 
-# Functionalities
+## Functionalities
 
 <ul>
 <li>Transaction Management</li>
