@@ -7,6 +7,7 @@
 <img align="left" src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png"  width="500px" heigth="188px">
 <img align="right" src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png"  width="500" heigth="188px">
 
+<br>
 ## Functionalities
 
 <ul>
