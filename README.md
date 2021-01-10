@@ -5,8 +5,8 @@
 ## Screenshots
 
 <div style="display: flex;">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png">
+    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png" width="50%">
+    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png" width="50%">
 </div>
 
 ## Functionalities
