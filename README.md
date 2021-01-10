@@ -4,9 +4,14 @@
 
 ## Screenshots
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png" width="50%">
-    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png" width="50%">
+<div align="right">
+    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png">
+    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png">
+</div>
+
+<div align="left">
+    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293284/Picture1_z2vj8z.png">
+    <img src="https://res.cloudinary.com/mahadi/image/upload/v1610293285/Picture2_n6jejw.png">
 </div>
 
 ## Functionalities
